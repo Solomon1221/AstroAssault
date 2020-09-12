@@ -1,0 +1,680 @@
+fileFormatVersion: 2
+guid: 7d7f8854e19e01342b4a97baa6c93f3a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2949310793317762208
+    second: mothership_0
+  - first:
+      213: 6277220362459298257
+    second: mothership_1
+  - first:
+      213: 1261061275945681805
+    second: mothership_2
+  - first:
+      213: 7017761179688888286
+    second: mothership_3
+  - first:
+      213: 7691920206677570518
+    second: mothership_4
+  - first:
+      213: -472405708920388563
+    second: mothership_5
+  - first:
+      213: -5712682671500039348
+    second: mothership_6
+  - first:
+      213: 2885437295078724840
+    second: mothership_7
+  - first:
+      213: -2499408787571736631
+    second: mothership_8
+  - first:
+      213: -8025657129552381669
+    second: mothership_9
+  - first:
+      213: -4465865012000613386
+    second: mothership_10
+  - first:
+      213: 4595249775391110443
+    second: mothership_11
+  - first:
+      213: 9186832189524451525
+    second: mothership_12
+  - first:
+      213: -1179435766864155378
+    second: mothership_13
+  - first:
+      213: -4837380119502592922
+    second: mothership_14
+  - first:
+      213: 4433803037447985711
+    second: mothership_15
+  - first:
+      213: -6581234335126981914
+    second: mothership_16
+  - first:
+      213: 8472246353179491261
+    second: mothership_17
+  - first:
+      213: 2318706605840236082
+    second: mothership_18
+  - first:
+      213: -6190715030615748340
+    second: mothership_19
+  - first:
+      213: 8289696106623670354
+    second: mothership_20
+  - first:
+      213: 578152118107777317
+    second: mothership_21
+  - first:
+      213: -3568776065123434989
+    second: mothership_22
+  - first:
+      213: -2255666538762575549
+    second: mothership_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mothership_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3853
+        width: 548
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a44ee75a8e0ee820800000000000000
+      internalID: 2949310793317762208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothership_1
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 3853
+        width: 548
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d93c3959aa2d1750800000000000000
+      internalID: 6277220362459298257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothership_2
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 3853
+        width: 548
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d834eb09c80308110800000000000000
+      internalID: 1261061275945681805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothership_3
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3453
+        width: 548
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7e1e97c98146160800000000000000
+      internalID: 7017761179688888286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothership_4
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 3453
+        width: 548
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d37aa7aca03fba60800000000000000
+      internalID: 7691920206677570518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothership_5
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 3453
+        width: 548
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d240fe9b28da179f0800000000000000
+      internalID: -472405708920388563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothership_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3053
+        width: 548
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4be5ba906978b0b0800000000000000
+      internalID: -5712682671500039348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothership_7
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 3053
+        width: 548
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4d4d2aee12b0820800000000000000
+      internalID: 2885437295078724840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothership_8
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 3053
+        width: 548
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cffb4c33f0505dd0800000000000000
+      internalID: -2499408787571736631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothership_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2653
+        width: 548
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19f2f7cc532f9090800000000000000
+      internalID: -8025657129552381669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothership_10
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 2653
+        width: 548
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb9bd8ce6f0602c0800000000000000
+      internalID: -4465865012000613386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothership_11
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 2653
+        width: 548
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b257164f25b95cf30800000000000000
+      internalID: 4595249775391110443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothership_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2116
+        width: 548
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0aab3d33f2e7f70800000000000000
+      internalID: 9186832189524451525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothership_13
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 2116
+        width: 548
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0deba04b6dc1afe0800000000000000
+      internalID: -1179435766864155378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothership_14
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 2116
+        width: 548
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664e28d296c2edcb0800000000000000
+      internalID: -4837380119502592922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothership_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1716
+        width: 548
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a922b0f58088d30800000000000000
+      internalID: 4433803037447985711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothership_16
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1714
+        width: 548
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2f627bd32caa4a0800000000000000
+      internalID: -6581234335126981914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothership_17
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 1714
+        width: 548
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbbcda9b27739570800000000000000
+      internalID: 8472246353179491261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothership_18
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1314
+        width: 548
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e757b7f53bd2020800000000000000
+      internalID: 2318706605840236082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothership_19
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1314
+        width: 548
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c011a7eba79261aa0800000000000000
+      internalID: -6190715030615748340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothership_20
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 1314
+        width: 548
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2581e3330baea0370800000000000000
+      internalID: 8289696106623670354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothership_21
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 914
+        width: 548
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52924f9c942060800800000000000000
+      internalID: 578152118107777317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothership_22
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 916
+        width: 548
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31eb663b319297ec0800000000000000
+      internalID: -3568776065123434989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mothership_23
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 916
+        width: 548
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3416259eb3342b0e0800000000000000
+      internalID: -2255666538762575549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
